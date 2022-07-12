@@ -1,0 +1,31 @@
+#ft-form {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    
+}
+html{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfiiAjXTsZeAlMZFFUSeNre4fcFbY6fo-Uw&usqp=CAU.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size:cover ;
+    -moz-background-size:cover ;
+    -moz-background-size:cover ;
+    }
+  #ft-form *,
+  #ft-form ::after,
+  #ft-form ::before {
+    box-sizing: border-box
+  }
+  #ft-form input,
+  #ft-form select,
+  #ft-form textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0
+  }
+  div{
+    font-size: 20px;
+  }
